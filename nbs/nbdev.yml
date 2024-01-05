@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test_openai"
+  site-url: "https://Pankajkumar-Bankar.github.io/test_openai"
+  description: "this is nbdev repo for testing openai"
+  repo-branch: main
+  repo-url: "https://github.com/Pankajkumar-Bankar/test_openai"
